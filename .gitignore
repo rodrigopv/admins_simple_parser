@@ -1,5 +1,8 @@
 *.py[cod]
 
+# admins_simple.ini
+admins_simple.ini
+
 # C extensions
 *.so
 
